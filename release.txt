@@ -1,0 +1,47 @@
+Delegação de Florianópolis conquista 1º e 3º lugares em competição de IA e robótica no “Vale do Silício chinês”
+
+Em Shenzhen, polo de gigantes como Tencent, Huawei e DJI, o brasileiro Ion “Zeugh” Neto, nascido em Florianópolis, vence com o Interlock; Murilo Leite, estudante da UFSC, integra equipe que leva o terceiro lugar com assistente para idosos
+
+FLORIANÓPOLIS / SHENZHEN, 26 de outubro de 2026 — Em Shenzhen, inteligência artificial, engenharia e fabricação se encontram em uma mesma cidade. Conhecida como o “Vale do Silício chinês”, a metrópole abriga gigantes como Tencent, Huawei, BYD e DJI e reúne uma cadeia de fornecedores capaz de transformar projetos em equipamentos físicos. Foi nesse ambiente, em uma competição que reuniu participantes de diferentes países, incluindo vencedores de outros hackathons, que uma delegação ligada a Florianópolis conquistou o primeiro e o terceiro lugares.
+
+O brasileiro Ion “Zeugh” Neto, nascido em Florianópolis, integrante da blockful e head de pesquisa da Fator.ai e do Frontier Hub, conquistou o primeiro lugar como competidor no ShanHaiWoo AI × Hardware Hackathon, em Shenzhen, com o Interlock, projeto de controle de robôs por inteligência artificial. Murilo Leite, estudante da Universidade Federal de Santa Catarina (UFSC), integrou a equipe do Marco, assistente para idosos que ficou em terceiro, ao lado de Medhi Loup, desenvolvedor francês radicado em Florianópolis e membro do Frontier Hub.
+
+A disputa ocorreu de 21 a 23 de outubro, com três dias de desenvolvimento e apresentação de protótipos. A conquista colocou os participantes vindos de Florianópolis no pódio de um encontro internacional dedicado a uma das próximas frentes da IA: sistemas que percebem o ambiente e executam ações no mundo físico.
+
+Um polo industrial na fronteira da inteligência artificial
+
+A dimensão de Shenzhen ajuda a situar a experiência. A cidade registrou um PIB de 3,87 trilhões de yuans em 2025, segundo o órgão municipal de estatísticas. Sua relevância para a tecnologia combina empresas de alcance global, fornecedores de componentes, serviços de prototipagem e capacidade de fabricação. Para quem desenvolve robótica, essa proximidade permite testar software e equipamentos junto de quem projeta e produz as peças.
+
+A cidade também aposta na chamada inteligência incorporada, que combina IA, percepção e ação física. Um plano anunciado em 2025 estabelece a meta de superar 100 bilhões de yuans em produção nesse setor de robótica até 2027. É nesse contexto de expansão tecnológica e industrial que o ShanHaiWoo reúne desenvolvedores, pesquisadores e empreendedores para criar e testar projetos.
+
+Ion “Zeugh” Neto: um brasileiro de Florianópolis no topo do pódio
+
+Nascido em Florianópolis, Ion “Zeugh” Neto é um dos organizadores da delegação que levou participantes da capital catarinense à China. No Brasil, participou da organização dos cursos na UFSC e da competição local em Florianópolis, que deram origem a esse percurso. Em Shenzhen, sua atuação no hackathon foi como competidor: apresentou o Interlock e conquistou o primeiro lugar. O projeto enfrenta um desafio central da robótica com IA: dar autonomia à máquina e manter o controle nas mãos de uma pessoa.
+
+Ion também integra a equipe da blockful, com a qual participa de competições de desenvolvimento tecnológico ao redor do mundo. O time acumula premiações na Bélgica, na Tailândia, na Suíça, nos Estados Unidos, na Argentina, na França e na Turquia, além de diversas conquistas no Brasil. A vitória com o Interlock em Shenzhen acrescenta um novo resultado à trajetória internacional do brasileiro.
+
+Concebido como base para um sistema operacional de robótica comandada por IA, o Interlock organiza a comunicação entre agentes de inteligência artificial, um braço robótico e seu operador. Na arquitetura documentada, a IA só movimenta o braço depois de receber autorização humana. A pessoa pode retomar o controle durante uma ação e interromper o movimento. Limites de movimento e verificações de carga acrescentam mecanismos de proteção aos experimentos.
+
+O projeto também registra demonstrações e resultados de tentativas, para que essas experiências sejam consultadas e reutilizadas em ciclos de prática, avaliação e ajuste. A proposta é criar condições para aperfeiçoar o treinamento dos robôs. O Interlock está em estágio de protótipo de hackathon, com código e documentação disponíveis publicamente no GitHub.
+
+Murilo Leite: da UFSC ao pódio internacional
+
+Murilo Leite levou sua trajetória de estudante da UFSC a uma experiência de desenvolvimento internacional. Depois de participar do percurso iniciado em Florianópolis, integrou em Shenzhen a equipe do Marco, projeto que combina braços robóticos e assistentes de voz para apoiar pessoas idosas em tarefas domésticas.
+
+O terceiro lugar reconheceu uma proposta voltada a um problema próximo da vida cotidiana: como usar a inteligência artificial e a robótica para oferecer apoio dentro de casa. Ao lado de Medhi Loup e de sua equipe, Murilo participou da construção de uma aplicação que aproxima formação universitária, desenvolvimento tecnológico e necessidades de uma população que envelhece.
+
+As soluções foram apresentadas em uma competição que também teve óculos inteligentes, companheiros de IA de bolso, sistemas para anéis inteligentes, guias de aeroporto e assistentes para negócios. O Interlock e o Marco se destacaram em frentes complementares: infraestrutura para operar robôs sob supervisão humana e assistência no ambiente doméstico.
+
+Fábricas e aula com a engenharia da Tencent
+
+A imersão da delegação em Shenzhen foi além da competição. Incluiu visitas a fábricas e uma aula sobre inteligência artificial com a equipe de engenharia da Tencent, uma das maiores empresas de tecnologia da China, sediada na cidade e com atuação em comunicação digital, jogos, computação em nuvem e serviços para empresas.
+
+Essas atividades aproximaram os participantes de duas etapas do desenvolvimento tecnológico: a engenharia de sistemas de IA e os processos industriais que permitem transformar protótipos em produtos. Para os integrantes vindos de Florianópolis, a experiência combinou a disputa internacional com contato direto com profissionais e estruturas do ecossistema chinês.
+
+Formação na UFSC, com apoio do professor Jean Martina
+
+O percurso teve origem no EAG Global Buildathon de Florianópolis, iniciativa da Ethereum Applications Guild (EAG), com organização local de ETH Floripa, blockful e Infinity Base e apoio da UFSC e de comunidades como o Frontier Hub.
+
+A UFSC apoiou a iniciativa e recebeu aulas de formação técnica, realizadas com o apoio do professor Jean Martina. Essa etapa aproximou a universidade da comunidade local de desenvolvedores e integrou a preparação para a competição em Florianópolis. A programação combinou formação e desenvolvimento de aplicações de IA e blockchain, com hackathon em 12 de setembro, no InPETU Hub, da UFSC.
+
+A premiação anunciada incluía uma bolsa para a residência ShanHaiWoo, com apoio para passagem e hospedagem de um integrante selecionado do projeto vencedor. Segundo os organizadores brasileiros, a iniciativa levou vencedores da etapa local ao programa na China, com Ion “Zeugh” Neto entre os organizadores da delegação. O percurso, da formação em Florianópolis ao pódio em Shenzhen, conectou a comunidade tecnológica catarinense a um dos principais centros mundiais de desenvolvimento e fabricação de tecnologia.
