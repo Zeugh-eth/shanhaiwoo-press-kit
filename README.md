@@ -17,6 +17,10 @@ Material para jornalistas, criadores e comunidades sobre a conquista do **1º e 
 
 Fonte: ShanHaiWoo. Autoria fotográfica individual não informada.
 
+## Base de divulgação
+
+[Consultar os 42 veículos contatados e os seis criadores/comunidades](divulgacao/README.md), com contatos públicos, fontes e status registrados. Disponível também em [CSV](divulgacao/veiculos.csv) e [JSON](divulgacao/veiculos.json). Envio não implica cobertura ou endosso.
+
 ## Contexto e atribuição
 
 Ion participou da organização da delegação brasileira, dos cursos na UFSC e da competição local em Florianópolis, com apoio da universidade e do professor Jean Martina. **Na competição em Shenzhen, sua atuação foi como competidor.**

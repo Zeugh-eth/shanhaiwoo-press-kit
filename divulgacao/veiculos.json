@@ -1,0 +1,380 @@
+[
+  {
+    "veiculo": "NSC Total",
+    "regiao": "SC / Florianópolis",
+    "editoria": "Economia e inovação",
+    "contato_publico": "estela.benetti@nsc.com.br",
+    "fonte": "https://www.nsctotal.com.br/colunistas/estela-benetti/conheca-oito-mulheres-que-criaram-o-futuro-na-tecnologia-e-inovacao",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "g1 Santa Catarina",
+    "regiao": "SC / Florianópolis",
+    "editoria": "Notícias gerais",
+    "contato_publico": "g1sc@nsc.com.br",
+    "fonte": "https://redeglobo.globo.com/sc/nsctv/noticia/fale-conosco-em-sc.ghtml",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Economia SC",
+    "regiao": "SC",
+    "editoria": "Negócios e inovação",
+    "contato_publico": "redacao@economiasc.com",
+    "fonte": "https://economiasc.com/sobre/",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Acontecendo Aqui",
+    "regiao": "SC / Florianópolis",
+    "editoria": "Comunicação e inovação",
+    "contato_publico": "redacao@acontecendoaqui.com.br",
+    "fonte": "https://acontecendoaqui.com.br/contato/",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Noticenter",
+    "regiao": "SC",
+    "editoria": "Economia e negócios",
+    "contato_publico": "reportagem@noticenter.com.br",
+    "fonte": "https://www.noticenter.com.br/expediente",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Portal da Ilha",
+    "regiao": "SC / Florianópolis",
+    "editoria": "Notícias gerais",
+    "contato_publico": "portaldailha@gmail.com",
+    "fonte": "https://portaldailha.com.br/comercial/",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Floripa Centro",
+    "regiao": "SC / Florianópolis",
+    "editoria": "Notícias locais",
+    "contato_publico": "portalfloripacentro@gmail.com",
+    "fonte": "https://floripacentro.com.br/quem-somos/",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "O Município",
+    "regiao": "SC / Brusque",
+    "editoria": "Notícias gerais",
+    "contato_publico": "redacao@omunicipio.com.br",
+    "fonte": "https://omunicipio.com.br/fale-conosco/",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Tecnoblog",
+    "regiao": "Nacional / SP",
+    "editoria": "Tecnologia",
+    "contato_publico": "imprensa@tecnoblog.net",
+    "fonte": "https://tecnoblog.net/contato/",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Olhar Digital",
+    "regiao": "Nacional / SP",
+    "editoria": "Tecnologia",
+    "contato_publico": "redacao@olhardigital.com.br",
+    "fonte": "https://olhardigital.com.br/fale-conosco/",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Canaltech",
+    "regiao": "Nacional / SP",
+    "editoria": "Tecnologia",
+    "contato_publico": "redacao@canaltech.com.br",
+    "fonte": "https://canaltech.com.br/sobre/",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Folha de S.Paulo",
+    "regiao": "Nacional / SP",
+    "editoria": "Inteligência Artificial",
+    "contato_publico": "ia@grupofolha.com.br",
+    "fonte": "https://www1.folha.uol.com.br/falecomafolha/",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Valor Econômico",
+    "regiao": "Nacional / SP",
+    "editoria": "Economia e tecnologia",
+    "contato_publico": "redacao@valor.com.br",
+    "fonte": "https://valor.globo.com/atendimento/fale",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Exame",
+    "regiao": "Nacional / SP",
+    "editoria": "IA e negócios",
+    "contato_publico": "redacao@exame.com",
+    "fonte": "https://classic.exame.com/wp-content/uploads/2025/11/Exame_Sonho-Grande_.pdf",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Mobile Time",
+    "regiao": "Nacional / SP",
+    "editoria": "Tecnologia e assistentes",
+    "contato_publico": "redacao@mobiletime.com.br",
+    "fonte": "https://www.mobiletime.com.br/quem-somos/",
+    "rodada": 1,
+    "status_registrado": "Devolvido: endereço inexistente ou indisponível"
+  },
+  {
+    "veiculo": "Convergência Digital",
+    "regiao": "Nacional",
+    "editoria": "Tecnologia e negócios",
+    "contato_publico": "analobo@convergenciadigital.com.br",
+    "fonte": "https://www.convergenciadigital.com.br/quem-somos/",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "TeleSíntese",
+    "regiao": "Nacional",
+    "editoria": "Tecnologia e telecom",
+    "contato_publico": "redacao@telesintese.com",
+    "fonte": "https://telesintese.com.br/contato/",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "IPNews",
+    "regiao": "Nacional / SP",
+    "editoria": "Tecnologia e conectividade",
+    "contato_publico": "redacao@ipnews.com.br",
+    "fonte": "https://ipnews.com.br/about-us/",
+    "rodada": 1,
+    "status_registrado": "Devolvido: servidor do destinatário mal configurado"
+  },
+  {
+    "veiculo": "Infor Channel",
+    "regiao": "Nacional / SP",
+    "editoria": "Tecnologia e negócios",
+    "contato_publico": "redacao@inforchannel.com.br",
+    "fonte": "https://inforchannel.com.br/quem-somos/",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Grupo AMANHÃ",
+    "regiao": "Sul / RS",
+    "editoria": "Economia e inovação",
+    "contato_publico": "redacao@amanha.com.br",
+    "fonte": "https://amanha.com.br/contato/",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Jornal do Comércio",
+    "regiao": "Sul / RS",
+    "editoria": "Economia e negócios",
+    "contato_publico": "internet@jornaldocomercio.com.br",
+    "fonte": "https://www.jornaldocomercio.com/fale-conosco",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Paranashop",
+    "regiao": "Sul / PR",
+    "editoria": "Notícias e negócios",
+    "contato_publico": "redacao@paranashop.com.br",
+    "fonte": "https://www.paranashop.com.br/contato",
+    "rodada": 1,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Showmetech",
+    "regiao": "Nacional / SP",
+    "editoria": "Ciência / tecnologia",
+    "contato_publico": "pautas@showmetech.com.br",
+    "fonte": "https://www.showmetech.com.br/contato/",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Startupi",
+    "regiao": "Nacional / SP",
+    "editoria": "Negócios / notícias gerais",
+    "contato_publico": "contato@startupi.com.br",
+    "fonte": "https://startupi.com.br/page/52/?trk=public_post_reshare-text",
+    "rodada": 2,
+    "status_registrado": "Devolvido: caixa cheia"
+  },
+  {
+    "veiculo": "TELETIME",
+    "regiao": "Nacional / SP",
+    "editoria": "Ciência / tecnologia",
+    "contato_publico": "henrique.juliao@teletime.com.br",
+    "fonte": "https://teletime.com.br/10/09/1998/contato-com-as-teles-ii/",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "ND Mais",
+    "regiao": "SC / Florianópolis",
+    "editoria": "Negócios / notícias gerais",
+    "contato_publico": "redacao@ndmais.com.br",
+    "fonte": "https://ndmais.com.br/contato/",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Notisul",
+    "regiao": "SC / Sul catarinense",
+    "editoria": "Negócios / notícias gerais",
+    "contato_publico": "contato@notisul.com.br",
+    "fonte": "https://notisul.com.br/contato/",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "OCP News",
+    "regiao": "SC",
+    "editoria": "Negócios / notícias gerais",
+    "contato_publico": "contato@ocpnews.com.br",
+    "fonte": "https://ocp.news/contato",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Banda B",
+    "regiao": "Sul / PR",
+    "editoria": "Negócios / notícias gerais",
+    "contato_publico": "bandab.jornalismo@gruporic.com.br",
+    "fonte": "https://www.bandab.com.br/contato/",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Pesquisa FAPESP",
+    "regiao": "Nacional / SP",
+    "editoria": "Ciência / tecnologia",
+    "contato_publico": "redacao@fapesp.br",
+    "fonte": "https://revistapesquisa.fapesp.br/fale-conosco/",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "TECSOCIETY",
+    "regiao": "Nacional",
+    "editoria": "Ciência / tecnologia",
+    "contato_publico": "contato@tecsociety.com.br",
+    "fonte": "https://www.tecsociety.com.br/contato/",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "A Economia",
+    "regiao": "Nacional",
+    "editoria": "Negócios / notícias gerais",
+    "contato_publico": "redacao@aeconomia.com.br",
+    "fonte": "https://aeconomia.com.br/expediente/",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Jornal JÁ",
+    "regiao": "Sul / RS",
+    "editoria": "Negócios / notícias gerais",
+    "contato_publico": "jornaljaeditora@gmail.com",
+    "fonte": "https://www.jornalja.com.br/site/contato/",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "O Sul",
+    "regiao": "Sul / RS",
+    "editoria": "Negócios / notícias gerais",
+    "contato_publico": "faleconosco@pampa.com.br",
+    "fonte": "https://www.osul.com.br/contato/",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Século Diário",
+    "regiao": "ES / Notícias gerais",
+    "editoria": "Negócios / notícias gerais",
+    "contato_publico": "jornalseculodiario@gmail.com",
+    "fonte": "https://www.seculodiario.com.br/contato/",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Jornal do Povo Paraná",
+    "regiao": "Sul / PR",
+    "editoria": "Negócios / notícias gerais",
+    "contato_publico": "redacao@jornaldopovoparana.com.br",
+    "fonte": "https://jornaldopovoparana.com.br/contato/",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Mais Expressão",
+    "regiao": "SP / Indaiatuba",
+    "editoria": "Negócios / notícias gerais",
+    "contato_publico": "redacao@maisexpressao.com.br",
+    "fonte": "https://maisexpressao.com.br/jornal-digital/download/edicao-39-06-06-2026-994.pdf",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Correio Braziliense",
+    "regiao": "Nacional / DF",
+    "editoria": "Negócios / notícias gerais",
+    "contato_publico": "anapaula.df@dabr.com.br",
+    "fonte": "https://www.correiobraziliense.com.br/contato/",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Portal Making Of",
+    "regiao": "SC / Florianópolis",
+    "editoria": "Negócios / notícias gerais",
+    "contato_publico": "sergio.redacao@gmail.com",
+    "fonte": "https://portalmakingof.com.br/sergio-oliveira/",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "4oito",
+    "regiao": "SC / Criciúma",
+    "editoria": "Negócios / notícias gerais",
+    "contato_publico": "contato@4oito.com.br",
+    "fonte": "https://www.4oito.com.br/contato",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Morro da Fumaça Notícias",
+    "regiao": "SC / Sul catarinense",
+    "editoria": "Negócios / notícias gerais",
+    "contato_publico": "redacao@morrodafumacanoticias.com.br",
+    "fonte": "https://www.morrodafumacanoticias.com.br/contato/",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  },
+  {
+    "veiculo": "Jornal de Curitiba",
+    "regiao": "Sul / PR",
+    "editoria": "Negócios / notícias gerais",
+    "contato_publico": "redacao@jornaldecuritiba.com",
+    "fonte": "https://jornaldecuritiba.com.br/contato/",
+    "rodada": 2,
+    "status_registrado": "Enviado"
+  }
+]
